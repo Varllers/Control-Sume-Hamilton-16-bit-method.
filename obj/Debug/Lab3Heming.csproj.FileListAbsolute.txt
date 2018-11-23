@@ -1,0 +1,10 @@
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\bin\Debug\Lab3Heming.exe.config
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\bin\Debug\Lab3Heming.exe
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\bin\Debug\Lab3Heming.pdb
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.csprojAssemblyReference.cache
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.Form1.resources
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.Properties.Resources.resources
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.csproj.GenerateResource.cache
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.csproj.CoreCompileInputs.cache
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.exe
+C:\Users\Lutik\source\repos\Lab3Heming\Lab3Heming\obj\Debug\Lab3Heming.pdb
